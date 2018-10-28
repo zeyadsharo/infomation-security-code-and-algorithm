@@ -1,1 +1,1 @@
-# infomation-security-code-and-algorithm
+# information-security-code-and-algorithm
